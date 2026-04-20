@@ -54,3 +54,12 @@ pids
 
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+
+
+## 📸 Preview
+
+### Create User
+![Create User](assets/post-user.png)
+
+### Get Users
+![Get Users](assets/get-users.png)
