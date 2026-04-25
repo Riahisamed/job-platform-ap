@@ -65,3 +65,7 @@ npm run start:dev
 ## 🧑‍💻 Author
 
 Riahisamed
+
+## 🏗 Architecture
+
+![Architecture](assets/architecture.png)
